@@ -1,0 +1,9 @@
+
+mysqli_connect : fungsi ini digunakan untuk membuat koneksi 
+                 antara PHP dengan MySQL Server.
+
+mysqli_query   : Fungsi ini digunakan untuk memberikan 
+                 perintah query ke MySQL Server.
+
+include()      : Fungsi yang digunakan untuk menyertakan file
+                 php lain ke dalam suatu program PHP

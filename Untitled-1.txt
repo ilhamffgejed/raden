@@ -1,0 +1,7 @@
+
+Database : contoh 
+
+Table    : biodata
+          - id int (10) primary key
+          - nama varchar (50)
+          - tanggal lahir date
